@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.zakat{
+    background-image: url(zakat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 548px;
+}
+h1{
+    color: rgb(255, 25, 0);
+}
+.input{
+   padding-top: 6px;
+   width: 230px;
+   margin-top: 12px;
+}
+.input2{
+   padding-top: 5px;
+   width: 230px;
+   margin-top: 11px;
+}
+.btn{
+   height:25px;;
+   width: 230px;
+   margin-top: 14px;
+   color:black;
+   background-color:rgb(231, 209, 154);
+   text-align: center;
+   
+}
+.text{
+    padding-top: 180px;
+}
+.donate{
+    color: white;
+    background-color: green;
+    width: 240px;
+    margin: 28px;
+    height: 30px;
+    cursor: pointer;
+    
+}
